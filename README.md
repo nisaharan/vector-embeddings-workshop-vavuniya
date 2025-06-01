@@ -60,6 +60,7 @@ Explore the 3D visualization of word embeddings here:
 
 Rotate and hover to understand how words cluster in high-dimensional space!
 
+![3D Vector Visualization Preview](assets/3d%20color%20vector%20visualization.png)
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
