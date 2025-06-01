@@ -53,6 +53,14 @@ open "demo/colorful_vectors_3d.html"
 - Color mapping gives intuition about vector closeness
 - Word embeddings (e.g. GloVe) can be visually explored in 3D
 
+## 🌐 Live Interactive Demo
+
+Explore the 3D visualization of word embeddings here:  
+👉 [Interactive Plotly Demo](https://nisaharan.github.io/vector-embeddings-workshop-vavuniya/colorful_vectors_3d.html)
+
+Rotate and hover to understand how words cluster in high-dimensional space!
+
+
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
